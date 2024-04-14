@@ -1,2 +1,3 @@
 # DataBase-Project
-MIPT Course of database
+MIPT Course of database  
+Code on the branch dev  
